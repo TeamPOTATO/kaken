@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyApplication/MyApplication.iml" filepath="$PROJECT_DIR$/../MyApplication/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai2.iml" filepath="$PROJECT_DIR$/kadai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kaken.iml" filepath="$PROJECT_DIR$/../kaken.iml" />
+    </modules>
+  </component>
+</project>
+
